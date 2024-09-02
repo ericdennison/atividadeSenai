@@ -1,0 +1,15 @@
+/home/develop8/Downloads/Ebooks/Senai/projectSENAI/Atividade/bin/Debug/net6.0/Atividade
+/home/develop8/Downloads/Ebooks/Senai/projectSENAI/Atividade/bin/Debug/net6.0/Atividade.deps.json
+/home/develop8/Downloads/Ebooks/Senai/projectSENAI/Atividade/bin/Debug/net6.0/Atividade.runtimeconfig.json
+/home/develop8/Downloads/Ebooks/Senai/projectSENAI/Atividade/bin/Debug/net6.0/Atividade.dll
+/home/develop8/Downloads/Ebooks/Senai/projectSENAI/Atividade/bin/Debug/net6.0/ref/Atividade.dll
+/home/develop8/Downloads/Ebooks/Senai/projectSENAI/Atividade/bin/Debug/net6.0/Atividade.pdb
+/home/develop8/Downloads/Ebooks/Senai/projectSENAI/Atividade/obj/Debug/net6.0/Atividade.csproj.AssemblyReference.cache
+/home/develop8/Downloads/Ebooks/Senai/projectSENAI/Atividade/obj/Debug/net6.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/home/develop8/Downloads/Ebooks/Senai/projectSENAI/Atividade/obj/Debug/net6.0/Atividade.AssemblyInfoInputs.cache
+/home/develop8/Downloads/Ebooks/Senai/projectSENAI/Atividade/obj/Debug/net6.0/Atividade.AssemblyInfo.cs
+/home/develop8/Downloads/Ebooks/Senai/projectSENAI/Atividade/obj/Debug/net6.0/Atividade.csproj.CoreCompileInputs.cache
+/home/develop8/Downloads/Ebooks/Senai/projectSENAI/Atividade/obj/Debug/net6.0/Atividade.dll
+/home/develop8/Downloads/Ebooks/Senai/projectSENAI/Atividade/obj/Debug/net6.0/ref/Atividade.dll
+/home/develop8/Downloads/Ebooks/Senai/projectSENAI/Atividade/obj/Debug/net6.0/Atividade.pdb
+/home/develop8/Downloads/Ebooks/Senai/projectSENAI/Atividade/obj/Debug/net6.0/Atividade.genruntimeconfig.cache
